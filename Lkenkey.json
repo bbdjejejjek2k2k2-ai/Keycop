@@ -9,4 +9,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "95c25a8af523e675",
+        "key": "lkenmods",
+        "expirydate": "16-06-2026",
+        "Allowoffline": false
+    }    
+
